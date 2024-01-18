@@ -1,0 +1,6 @@
+.idea/*
+.mypy_cache/*
+venv/
+__pycahce__/
+bot.log
+.env
